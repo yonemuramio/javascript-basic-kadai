@@ -5,6 +5,6 @@ let height;
 height = 1.7;
 
 let bim;
-bim = (weight / (height * height))
+bim = (weight / (height * height));
 
-console.log(bim)
+console.log(bim);
